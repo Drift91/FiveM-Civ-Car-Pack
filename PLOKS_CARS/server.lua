@@ -1,5 +1,5 @@
 -- Sets server list convar
-SetConvarServerInfo('tags', 'PLOKS_CARS')
+--SetConvarServerInfo('tags', 'PLOKS_CARS')
 -- Setup for the version check
 updatePath = "/PLOKMJNB/FiveM-Civ-Car-Pack" -- your git user/repo path
 -- Console stuff
